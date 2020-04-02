@@ -11,3 +11,7 @@ Chanon Buathan			623040421-0
 
 Pariyat  Lintala			623040592-3
 
+
+
+//Scripts in assets
+
